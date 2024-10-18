@@ -16,18 +16,20 @@ To get started with this project locally, follow the steps below:
     git clone https://github.com/Dak97/Is-It-Fake-Or-Not.git
     ```
    This will clone the repository to your local machine.
+   In order to reproduce the experiment, you can download the training, validation and test images from here:
+   - Fakeddit: https://drive.google.com/file/d/1coi5b2MwQW3DqCLOg9Wxk6QXVoHhvcc2/view?usp=drive_link
 
-2. **Navigate to the Project Directory**
+3. **Navigate to the Project Directory**
     ```bash
     cd Is-It-Fake-Or-Not
     ```
    After cloning, move into the project directory.
 
-3. **Create Virtual Environment**
+4. **Create Virtual Environment**
     ```
     python -m venv /path/to/new/virtual/environment
     ```
-4. **Install Requirements**
+5. **Install Requirements**
     
     ```bash
     pip install -r requirements.txt
